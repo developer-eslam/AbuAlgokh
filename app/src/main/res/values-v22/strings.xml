@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="productname">Product Name</string>
+    <string name="Open_Camera">Open Camera</string>
+    <string name="Browse">Browse</string>
+    <string name="Send">Send</string>
+</resources>
